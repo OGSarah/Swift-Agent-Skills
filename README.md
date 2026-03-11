@@ -8,6 +8,8 @@ A curated collection of open-source AI agent skills for Swift and Apple platform
 
 This repository contains links to community-maintained agent skills across a range of topics, organized by framework and area.
 
+[Learn how to install and use agent skills with Xcode, Claude Code, Codex, and more.](https://www.youtube.com/watch?v=nKVZBKoB6P4)
+
 
 ## ⚠️ Important Safety Note ⚠️
 
