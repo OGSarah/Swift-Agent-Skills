@@ -29,6 +29,7 @@ The skills listed here are open source, so please take the time to read through 
 - [Swift Language Skills](#swift-language-skills)
 - [Accessibility Skills](#accessibility-skills)
 - [App Store Skills](#app-store-skills)
+- [Architecture Skills](#architecture-skills)
 - [Core Data Skills](#core-data-skills)
 - [Performance Skills](#performance-skills)
 - [Tool Skills](#tool-skills)
@@ -88,6 +89,11 @@ The skills listed here are open source, so please take the time to read through 
 - [App Store Connect CLI](https://github.com/rudrankriyam/app-store-connect-cli-skills) by [Rudrank Riyam](https://github.com/rudrankriyam)
 - [App Store Changelog](https://github.com/Dimillian/Skills) by [Thomas Ricouard](https://github.com/Dimillian)
 - [App Store ASO Optimization](https://github.com/timbroddin/app-store-aso-skill) by [Tim Broddin](https://github.com/timbroddin)
+
+
+### Architecture Skills
+
+- [Swift Architecture Skill](https://github.com/efremidze/swift-architecture-skill) by [Lasha Efremidze](https://github.com/efremidze)
 
 
 ### Core Data Skills
